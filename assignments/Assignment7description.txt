@@ -1,0 +1,6 @@
+This assignment costs you additional 2pts on top of 10.
+You need to submit(show) it before class ends.
+Here is the link for the data https://archive.ics.uci.edu/ml/machine-learning-databases/poker/poker-hand-testing.data
+Here is the data description https://archive.ics.uci.edu/ml/datasets/Poker+Hand
+You can use any Supervised Algorithm.
+You are free to use scikit-learn for all purposes.
